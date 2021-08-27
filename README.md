@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gift1502
 - 👀 I’m interested in DevOps,DevsecOps,Software Development
 - 🌱 I’m currently learning anything tech 
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python projects and kubernetes
 - 📫 How to reach me mpho1502@gmail.com
 
 <!---
